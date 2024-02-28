@@ -25,4 +25,4 @@ FINANCE AND SUPPLY CHAIN ANALYTICS OF ATLIQ HARDWARES
 
 Presentation Doc Link :(https://github.com/bichakshansahu/Finance-Supply-chain-Analytics-/blob/main/SQL%20Project.pdf.pdf)
 
-![image](https://github.com/SatyaJammu3/SQL-Project-Finance-Supply-Chain-Analytics/assets/153366424/11d52f9f-017a-4b1d-a7dd-b71fe41d3ce0)
+![image](https://github.com/bichakshansahu/Finance-Supply-chain-Analytics-/blob/main/Thumbnail.jpg)
